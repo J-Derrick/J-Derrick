@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
  <h1 align='center'>"J-Derrick here, Welcome to my GitHub! "</h1>
 <p align="center">
-John Derrick Waweru is a results-oriented software engineer passionate about crafting innovative solutions. Armed with a B.Sc. in Computer Science and a rigorous ALX software engineering certificate, he brings a solid foundation in data structures, algorithms, and full-stack web development. With a keen interest in data analytics, blockchain technology, AI, and machine learning, John is adept at building robust and scalable applications. Experienced in Python, JavaScript, and related frameworks, he thrives in collaborative environments and is eager to contribute to hackathons and open-source projects pushing technology's boundaries.</p>
+John Derrick Waweru is a results-oriented software engineer passionate about crafting innovative solutions. Armed with a B.Sc. in Computer Science and a rigorous ALX software engineering certificate, he brings a solid foundation in data structures, algorithms, and full-stack web development. With a keen interest in data analytics, blockchain technology, AI, and machine learning, John is adept at building robust and scalable applications. Experienced in Python, JavaScript, and related frameworks, he thrives in collaborative environments and is eager to contribute to hackathons and open-source projects pushing technology's boundaries.
+He also plays football | :wink: `:wink:` |</p>
 
-<h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"><a href="mailto:dknderitu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href='https://drive.google.com/file/d/1u1cSeFhyZxy4XQXOH7tSC7qvmquXWnIy/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
-<a href='https://drive.google.com/file/d/1zf-AVS2zpT6f-CSi56Ox36dfkMlLUNXy/view?usp=sharing'><img src="https://img.shields.io/badge/ALX Transcript-green?style=for-the-badge"></a>
-<a href='https://drive.google.com/file/d/1JgHbvGgGMoCwTHKzSPaSp6XX96YavRvd/view?usp=drive_link'><img src="https://img.shields.io/badge/ALX Certificate-yellow?style=for-the-badge"></a>
+<h1 align="center"> CHECK ME OUT! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h3 align="center"><a href="mailto:j.derrickwaweru@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
+<a href=""><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+<a href=""><img src="https://img.shields.io/badge/Bachelors Degree Certificate-green?style=for-the-badge"></a>
+<a href=""><img src="https://img.shields.io/badge/ALX Certificate-yellow?style=for-the-badge"></a>
 
 <!-- <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymanMoha&label=Profile%20views&color=0e75b6&style=flat" alt="Dennisnderitu254" /> </p> -->
 
