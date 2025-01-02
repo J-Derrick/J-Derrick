@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <h1 align='center'>"J-Derrick here, Welcome to my GitHub! "</h1>
 <p align="center">
 John Derrick Waweru is a results-oriented software engineer passionate about crafting innovative solutions. Armed with a B.Sc. in Computer Science and a rigorous ALX software engineering certificate, he brings a solid foundation in data structures, algorithms, and full-stack web development. With a keen interest in data analytics, blockchain technology, AI, and machine learning, John is adept at building robust and scalable applications. Experienced in Python, JavaScript, and related frameworks, he thrives in collaborative environments and is eager to contribute to hackathons and open-source projects pushing technology's boundaries.
-He also plays football | :wink: `:wink:` |</p>
+He also plays football | :wink: |</p>
 
 <h1 align="center"> CHECK ME OUT! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:j.derrickwaweru@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
