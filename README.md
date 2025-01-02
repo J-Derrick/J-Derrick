@@ -23,7 +23,7 @@ Driven by a passion for emerging technologies, John actively explores and integr
 <p align="center">
 A strong collaborator, John thrives in team settings and actively seeks opportunities to contribute to hackathons and open-source projects. He is  eager to push the boundaries of technology and contribute to meaningful advancements.</p>
 <p align="center">
-Beyond his technical prowess, John enjoys staying active and participating in recreational activities like football.:wink: </p>
+Beyond his technical prowess, John enjoys staying active and participating in recreational activities like football. :wink: </p>
 
 <h1 align="center"> CHECK ME OUT! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:j.derrickwaweru@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
