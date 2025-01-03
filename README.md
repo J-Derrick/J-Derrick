@@ -25,7 +25,7 @@ A strong collaborator, John thrives in team settings and actively seeks opportun
 <p align="center">
 Beyond his technical prowess, John enjoys staying active and participating in recreational activities like football. :wink: </p>
 
-<h1 align="center"> CHECK ME OUT! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> CHECK MY CREDENTIALS OUT! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:j.derrickwaweru@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href=""><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <a href=""><img src="https://img.shields.io/badge/Bachelors Degree Certificate-green?style=for-the-badge"></a>
@@ -60,9 +60,9 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 | Repository | Description |
 | --- | --- |
-| [AlX-low_level_programming](https://github.com/dennisnderitu254/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [Alx-system_engineering-devops](https://github.com/dennisnderitu254/alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-| [Alx-high_level_programming](https://github.com/dennisnderitu254/alx-higher_level_programming) | Python Loops and iterators, functions, test driven development, data structures and algorithms|
+| [AlX-low_level_programming](https://github.com/J-Derrick/alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [Alx-system_engineering-devops](https://github.com/J-Derrick//alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [Alx-high_level_programming](https://github.com/J-Derrick/alx-higher_level_programming.git) | Python Loops and iterators, functions, test driven development, data structures and algorithms, Javascript programming|
 
 <h3 align="center"><br>Tools & Technologies</h3>
 
