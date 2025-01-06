@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <h1 align='center'>"J-Derrick here, Welcome to my GitHub! "</h1>
+ <h1 align='center'>"J-Derrick | Building the Future, One Line at a Time."</h1>
 <p align="center">
 John Derrick Waweru is a highly motivated software engineer with a proven track record of delivering innovative solutions. Leveraging his strong academic background (B.Sc. in Computer Science) and intensive software engineering training (ALX certificate), John possesses a deep understanding of data structures, algorithms, and full-stack web development principles.</p>
 <p align="center">
@@ -45,14 +45,14 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 </h4>
 
-![alxcert](NderituALXcertificate.png)
+![alxcert]()
 
 <h4>
 
 
 <p align="center">Completed The ALX Career Essentials Course</p>
 
-![alxcert](careeressentials.png)
+![alxcert]()
 
 
 </h4>
@@ -77,24 +77,24 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 | Project name | Description |
 | --- | --- |
-|[Printf](https://github.com/codebyrugi/printf)| The program is designed to mimic the printf function in C.|
-|[Simple_Shell](https://github.com/dennisnderitu254/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
-|[Monty](https://github.com/dennisnderitu254/monty) | Stacks, Queues - LIFO, FIFO |
-|[Sorting Algorithms](https://github.com/dennisnderitu254/sorting_algorithms) | Sorting Algorithms Implementation in C|
-|[RSA-Factoring-Challenge](https://github.com/dennisnderitu254/RSA-Factoring-Challenge) |RSA Factoring Challenge|
-|[AirBnB Clone](https://github.com/dennisnderitu254/AirBnB_clone) | AirBnB Clone Command Line Interface |
-|[Binary Trees](https://github.com/dennisnderitu254/binary_trees) | Binary Trees |
-|[Search Algorithms](https://github.com/dennisnderitu254/alx-low_level_programming/tree/master/0x1E-search_algorithms) | Search Algorithms |
+|[Printf]()| The program is designed to mimic the printf function in C.|
+|[Simple_Shell]()| The program is designed to mimic the abilities of a simple shell. |
+|[Monty]() | Stacks, Queues - LIFO, FIFO |
+|[Sorting Algorithms]() | Sorting Algorithms Implementation in C|
+|[RSA-Factoring-Challenge]() |RSA Factoring Challenge|
+|[AirBnB Clone]() | AirBnB Clone Command Line Interface |
+|[Binary Trees]() | Binary Trees |
+|[Search Algorithms]() | Search Algorithms |
 
 <br />
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
- <a href="https://github.com/dennisnderitu254"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
- <a href="https://www.linkedin.com/in/dennis-kinyanjui-a35a9510b/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
- <a href="https://www.instagram.com/dennisnnderitu_/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
- <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+ <a href="https://github.com/J-Derrick"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
+ <a href="https://www.linkedin.com/in">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+ <a href="https://www.instagram.com/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
+ <a href="https://www.twitter.com/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
 <!--
