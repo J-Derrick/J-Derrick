@@ -57,6 +57,16 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 </h4>
 
+<h4>
+
+
+<p align="center">Completed the ICP Dacade courses</p>
+
+![Dacade]()
+
+
+</h4>
+
 
 | Repository | Description |
 | --- | --- |
