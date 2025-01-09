@@ -41,16 +41,16 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 <h4>
 
 
-<p align="center">Completed The ALX Software Engineering Course</p>
+<p align="center">B.Sc Computer Science honors</p>
 
 </h4>
 
-![alxcert]()
+![bachelors degree]()
 
 <h4>
 
 
-<p align="center">Completed The ALX Career Essentials Course</p>
+<p align="center">Completed The ALX Software Engineering Course</p>
 
 ![alxcert]()
 
