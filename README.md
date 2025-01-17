@@ -83,7 +83,7 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3 align="center"><br>Major projects worked on in order:</h3>
+<h3 align="center"><br>Major projects worked on:</h3>
 
 | Project name | Description |
 | --- | --- |
@@ -95,6 +95,7 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 |[AirBnB Clone]() | AirBnB Clone Command Line Interface |
 |[Binary Trees]() | Binary Trees |
 |[Search Algorithms]() | Search Algorithms |
+|[Route Optimisation Algorithms]() | Route Optimisation Algorithms |
 
 <br />
 
@@ -102,9 +103,9 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 <p align="center">
  <a href="https://github.com/J-Derrick"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
- <a href="https://www.linkedin.com/in">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
- <a href="https://www.instagram.com/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
- <a href="https://www.twitter.com/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+ <a href="https://www.linkedin.com/J_Derrick">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+ <a href="https://www.instagram.com/J_Derrick">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
+ <a href="https://www.twitter.com/JDerrickW">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
 <!--
@@ -146,4 +147,4 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 </p>
 
----<!--
+
