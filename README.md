@@ -45,14 +45,14 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 </h4>
 
-![B. Sc. Computer Science]()
+![B. Sc. Computer Science Degree Certificate]()
 
 <h4>
 
 
 <p align="center">Completed The ALX Software Engineering Course</p>
 
-![alxcert]()
+![ALX Software Engineering Certificate]()
 
 
 </h4>
