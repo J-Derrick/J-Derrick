@@ -21,7 +21,7 @@ J-Derrick is a highly motivated software engineer with a proven track record of 
 <p align="center">
 Driven by a passion for emerging technologies, J actively explores and integrates advancements in data analytics, blockchain(Specifically ICP Blockchain), artificial intelligence, and machine learning into his projects. His expertise lies in building robust, scalable applications using Python, JavaScript, and their respective frameworks.</p>
 <p align="center">
-A strong collaborator, John thrives in team settings and actively seeks opportunities to contribute to hackathons and open-source projects. He is  eager to push the boundaries of technology and contribute to meaningful advancements.</p>
+A strong collaborator, J thrives in team settings and actively seeks opportunities to contribute to hackathons and open-source projects. He is  eager to push the boundaries of technology and contribute to meaningful advancements.</p>
 <p align="center">
 Beyond his technical prowess, J enjoys staying active and participating in recreational activities like football. :wink: </p>
 
