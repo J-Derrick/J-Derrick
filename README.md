@@ -62,8 +62,8 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 <p align="center">Completed the ICP Dacade courses</p>
 
-![Dacade]()
-
+![Dacade TypeScript 101 ICP Certificate]()
+![Dacade TypeScript 201 ICP Certificate]()
 
 </h4>
 
