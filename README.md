@@ -45,7 +45,7 @@ Beyond his technical prowess, John enjoys staying active and participating in re
 
 </h4>
 
-![bachelors degree]()
+![B. Sc. Computer Science]()
 
 <h4>
 
