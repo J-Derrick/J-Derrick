@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <h1 align='center'>"J-Derrick | Building the Future, One Line at a Time."</h1>
 <p align="center">
-John Derrick is a highly motivated software engineer with a proven track record of delivering innovative solutions. Leveraging his strong academic background (B.Sc. in Computer Science) and intensive software engineering training (ALX certificate), John possesses a deep understanding of data structures, algorithms, and full-stack web development principles.</p>
+J-Derrick is a highly motivated software engineer with a proven track record of delivering innovative solutions. Leveraging his strong academic background (B.Sc. in Computer Science) and intensive software engineering training (ALX certificate), John possesses a deep understanding of data structures, algorithms, and full-stack web development principles.</p>
 <p align="center">
 Driven by a passion for emerging technologies, John actively explores and integrates advancements in data analytics, blockchain(Specifically ICP Blockchain), artificial intelligence, and machine learning into his projects. His expertise lies in building robust, scalable applications using Python, JavaScript, and their respective frameworks.</p>
 <p align="center">
